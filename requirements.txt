@@ -1,0 +1,8 @@
+# Dependências do módulo M3 — Introdução à Engenharia de Dados na Prática
+# Instale tudo de uma vez com o venv ativado:  pip install -r requirements.txt
+
+requests==2.32.3        # fazer requisições HTTP para APIs (aulas 3 e 4)
+pandas==2.2.3           # transformação e limpeza de dados (aula 5)
+SQLAlchemy==2.0.36      # conexão do Python com o PostgreSQL (aula 6)
+psycopg2-binary==2.9.10 # "driver" que o SQLAlchemy usa para falar com o PostgreSQL (aula 6)
+pymongo==4.10.1         # conexão do Python com o MongoDB Atlas (aula 7)
