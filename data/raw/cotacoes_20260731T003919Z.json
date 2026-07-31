@@ -1,0 +1,28 @@
+{
+  "USDBRL": {
+    "code": "USD",
+    "codein": "BRL",
+    "name": "Dólar Americano/Real Brasileiro",
+    "high": "5.1284",
+    "low": "5.0569",
+    "varBid": "-0.0514",
+    "pctChange": "-1.002516",
+    "bid": "5.0757",
+    "ask": "5.0787",
+    "timestamp": "1785458013",
+    "create_date": "2026-07-30 21:33:33"
+  },
+  "EURBRL": {
+    "code": "EUR",
+    "codein": "BRL",
+    "name": "Euro/Real Brasileiro",
+    "high": "5.89588",
+    "low": "5.82072",
+    "varBid": "0.0187",
+    "pctChange": "0.318272",
+    "bid": "5.89414",
+    "ask": "5.89588",
+    "timestamp": "1785458012",
+    "create_date": "2026-07-30 21:33:32"
+  }
+}
